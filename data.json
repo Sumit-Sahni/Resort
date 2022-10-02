@@ -2,324 +2,55 @@
     "data" :[
         {
             "id":1,
-            "name":"Palm Harbor",
-            "price": 10000,
-            "location":"pune",
-            "property":"home",
+            "name":"Sindun-myeon, Icheon-si, Scout...",
+            "price":"5,726",
+            "km":"4,726",
             "image":"https://unsplash.com/photos/178j8tJrNlc/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
+          
         },
         {
             "id":2,
-            "name":"Blue Sky",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"private",
+            "name":"Pelkosenniemi, Finland",
+            "price": "11,407",
+             "km":"4,726",
             "image":"https://unsplash.com/photos/XuegU05_sHY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8cHJvcGVydHklMjByZW50fGVufDB8fHx8MTY2NDE2NDAzMQ&force=true&w=640",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
+           
         },
         {
             "id":3,
-            "name":"DLF builds",
-            "price": 2000,
-            "location":"delhi",
-            "property":"public",
+            "name":"Tambon Nong Kae, Thailand",
+            "price": "9,960",
+             "km":"2,726",
             "image":"https://unsplash.com/photos/QR_vT8_hBZM/download?force=true&w=640",
-            "more":[
-                {
-                    "beds":2,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
+           
             
         },
          {
             "id":4,
-            "name":"Stone Real estate",
-            "price": 10000,
-            "location":"nagpur",
-             "property":"corporeal",
+            "name":"El Nido, Phillippines",
+             "price": "9,960",
+             "km":"4,726",
             "image":"https://unsplash.com/photos/D_4R9CcYZOk/download?force=true",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
+          
             
         },
         {
             "id":5,
-            "name":"Coastal Premier Properties",
-            "price": 2000,
-            "location":"nagpur",
-            "property":"corporeal",
-            "image":"https://unsplash.com/photos/O9TBXOmyN2I/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
+             "name":"Thanh pho Nah Trang, Vietnam",
+             "price": "84,960",
+             "km":"3,783",
+             "image":"https://unsplash.com/photos/O9TBXOmyN2I/download?force=true&w=1920",
+           
             
         },
         {
             "id":6,
-            "name":"Palm Harbor",
-            "price": 980,
-            "location":"pune",
-            "property":"home",
+             "name":"TMueang Chiang Mai District,...",
+             "price": "1,960",
+             "km":"2,783",
             "image":"https://unsplash.com/photos/YOoucEImrKw/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":7,
-            "name":"Lincoln Property",
-            "price": 1800,
-            "location":"gurugram",
-            "property":"incorporeal",
-            "image":"https://unsplash.com/photos/XbwHrt87mQ0/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        },
-        {
-            "id":8,
-            "name":"Sharp Realty Group",
-            "price": 1200,
-            "location":"gurugram",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/B0aCvAVSX8E/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":2,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-         {
-            "id":9,
-            "name":"American Realty Brokers",
-            "price": 980,
-            "location":"mumbai",
-             "property":"private",
-            "image":"https://unsplash.com/photos/wR11KBaB86U/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":10,
-            "name":"Penny Realty Inc.",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"private",
-            "image":"https://unsplash.com/photos/bN_TkedaBuQ/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        },
-        {
-            "id":11,
-            "name":"MEM Property Management",
-            "price": 980,
-            "location":"pune",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/bjej8BY1JYQ/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":12,
-            "name":"Ready Real Estate",
-            "price": 1200,
-            "location":"mumbai",
-            "property":"private",
-            "image":"https://unsplash.com/photos/pmhdkgRCbtE/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        },
-        {
-            "id":13,
-            "name":"Premiere Property Group",
-            "price": 880,
-            "location":"mumbai",
-            "property":"home",
-            "image":"https://unsplash.com/photos/2d4lAQAlbDA/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":2,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-         {
-            "id":14,
-            "name":"Circle Point Homes",
-            "price": 880,
-            "location":"goa",
-             "property":"home",
-            "image":"https://unsplash.com/photos/RKdLlTyjm5g/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":15,
-            "name":"Avenue Realty",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"home",
-            "image":"https://unsplash.com/photos/_hw4aUQ81ic/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        },
-        {
-            "id":16,
-            "name":"Think Real Estate",
-            "price": 880,
-            "location":"goa",
-            "property":"home",
-            "image":"https://unsplash.com/photos/-_folCc8Q8k/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":17,
-            "name":"Beachfront Realty",
-            "price": 25000,
-            "location":"colaba",
-            "property":"movable",
-            "image":"https://unsplash.com/photos/_TPTXZd9mOo/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MTY2NDcx&force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        },
-        {
-            "id":18,
-            "name":"DLF builds",
-            "price": 880,
-            "location":"delhi",
-            "property":"rent",
-            "image":"https://unsplash.com/photos/Bkp3gLygyeA/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":2,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-         {
-            "id":19,
-            "name":"Nice Seattle Homes",
-            "price": 25000,
-            "location":"colaba",
-             "property":"movable",
-            "image":"https://unsplash.com/photos/h5QNclJUiA8/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":3,
-                    "bathroom":2,
-                    "area":"5x7"
-                }
-            ]
-            
-        },
-        {
-            "id":20,
-            "name":"JW Marriott",
-            "price": 1180,
-            "location":"mumbai",
-            "property":"home",
-            "image":"https://unsplash.com/photos/mx4mSkK9zeo/download?force=true&w=1920",
-            "more":[
-                {
-                    "beds":5,
-                    "bathroom":3,
-                    "area":"15x15"
-                }
-            ]
-            
-        }
+           
+        }, 
     ]
 }
    
