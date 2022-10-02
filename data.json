@@ -3,54 +3,54 @@
         {
             "id":1,
             "name":"Sindun-myeon Icheon-si Scout...",
-            "price":"5726",
-            "km":"4726",
-            "image":"https://unsplash.com/photos/178j8tJrNlc/download?force=true&w=1920",
+            "price":5726,
+            "km":4726,
+            "image":"https://unsplash.com/photos/178j8tJrNlc/download?force=true&w=1920"
           
         },
         {
             "id":2,
             "name":"Pelkosenniemi Finland",
-            "price": "11407",
-             "km":"4726",
-            "image":"https://unsplash.com/photos/XuegU05_sHY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8cHJvcGVydHklMjByZW50fGVufDB8fHx8MTY2NDE2NDAzMQ&force=true&w=640",
+            "price": 11407,
+             "km":4726,
+            "image":"https://unsplash.com/photos/XuegU05_sHY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8cHJvcGVydHklMjByZW50fGVufDB8fHx8MTY2NDE2NDAzMQ&force=true&w=640"
            
         },
         {
             "id":3,
             "name":"Tambon Nong Kae Thailand",
-            "price": "9960",
-             "km":"2726",
-            "image":"https://unsplash.com/photos/QR_vT8_hBZM/download?force=true&w=640",
+            "price": 9960,
+             "km":2726,
+            "image":"https://unsplash.com/photos/QR_vT8_hBZM/download?force=true&w=640"
            
             
         },
          {
             "id":4,
             "name":"El Nido Phillippines",
-             "price": "9960",
-             "km":"4726",
-            "image":"https://unsplash.com/photos/D_4R9CcYZOk/download?force=true",
+             "price":9960,
+             "km":4726,
+            "image":"https://unsplash.com/photos/D_4R9CcYZOk/download?force=true"
           
             
         },
         {
             "id":5,
              "name":"Thanh pho Nah Trang Vietnam",
-             "price": "84960",
-             "km":"3783",
-             "image":"https://unsplash.com/photos/O9TBXOmyN2I/download?force=true&w=1920",
+             "price":84960,
+             "km":3783,
+             "image":"https://unsplash.com/photos/O9TBXOmyN2I/download?force=true&w=1920"
            
             
         },
         {
             "id":6,
              "name":"Tmueang Chiang Mai District...",
-             "price": "1960",
-             "km":"2783",
-            "image":"https://unsplash.com/photos/YOoucEImrKw/download?force=true&w=1920",
+             "price":1960,
+             "km":2783,
+            "image":"https://unsplash.com/photos/YOoucEImrKw/download?force=true&w=1920"
            
-        }, 
+        }
     ]
 }
    
